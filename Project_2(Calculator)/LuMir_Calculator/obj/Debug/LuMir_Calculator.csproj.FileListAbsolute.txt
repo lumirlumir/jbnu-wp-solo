@@ -1,0 +1,15 @@
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\bin\Debug\LuMir_Calculator.exe.config
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\bin\Debug\LuMir_Calculator.exe
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\bin\Debug\LuMir_Calculator.pdb
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.csprojAssemblyReference.cache
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\MainWindow.g.cs
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\App.g.cs
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator_MarkupCompile.cache
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator_MarkupCompile.lref
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\MainWindow.baml
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.g.resources
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.Properties.Resources.resources
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.csproj.GenerateResource.cache
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.csproj.CoreCompileInputs.cache
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.exe
+D:\Lumir\CSE\#WPF\LuMir_Calculator\LuMir_Calculator\obj\Debug\LuMir_Calculator.pdb
